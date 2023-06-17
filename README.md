@@ -35,11 +35,3 @@ Graduate Software Engineer, AWS Developer Associate Certified
 ### Badges
 
 <a href="https://github.com/Oliver-Looney" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliver-Looney&langs_count=10&title_color=3382ed&text_color=0f172a&icon_color=0f172a&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Oliver-Looney/fpl-mini-league-leaderboard" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Oliver-Looney&repo=fpl-mini-league-leaderboard&title_color=3382ed&text_color=0f172a&icon_color=0f172a&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/Oliver-Looney/portfolio-site" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Oliver-Looney&repo=portfolio-site&title_color=3382ed&text_color=0f172a&icon_color=0f172a&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/Oliver-Looney/FPL-Projects" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Oliver-Looney&repo=FPL-Projects&title_color=3382ed&text_color=0f172a&icon_color=0f172a&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/Oliver-Looney/sudoku-solver" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Oliver-Looney&repo=sudoku-solver&title_color=3382ed&text_color=0f172a&icon_color=0f172a&bg_color=ffffff&hide_border=true&locale=en" /></a></div>

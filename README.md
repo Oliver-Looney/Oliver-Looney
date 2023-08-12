@@ -8,7 +8,7 @@ Graduate Software Engineer, AWS Developer Associate Certified
 
 * 🌍  I'm based in Northern Ireland
 * 🖥️  See my portfolio at [oliverlooney.com](https://oliverlooney.com)
-* ✉️  You can contact me at [oliverlooney.com/contact](https://oliverlooney.com/contact)
+* ✉️  You can contact me at [oliverlooney.com/contact/](https://oliverlooney.com/contact/)
 * 🧠  I'm learning AWS Solutions Architect Associate Certification
 
 ### Skills
